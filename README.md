@@ -2,7 +2,6 @@
 Use a combination of Iphone , Arduino and open cv to track a person's face and follow it using servo
 
 Video : 
-
          https://www.youtube.com/watch?v=8igoamnw418
 
 Explanation : 
